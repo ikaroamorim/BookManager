@@ -1,0 +1,11 @@
+C:\Users\IKARO\source\repos\BookManager\BookManager\obj\Debug\netcoreapp2.1\BookManager.csprojAssemblyReference.cache
+C:\Users\IKARO\source\repos\BookManager\BookManager\obj\Debug\netcoreapp2.1\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\IKARO\source\repos\BookManager\BookManager\obj\Debug\netcoreapp2.1\BookManager.AssemblyInfoInputs.cache
+C:\Users\IKARO\source\repos\BookManager\BookManager\obj\Debug\netcoreapp2.1\BookManager.AssemblyInfo.cs
+C:\Users\IKARO\source\repos\BookManager\BookManager\bin\Debug\netcoreapp2.1\BookManager.deps.json
+C:\Users\IKARO\source\repos\BookManager\BookManager\bin\Debug\netcoreapp2.1\BookManager.runtimeconfig.json
+C:\Users\IKARO\source\repos\BookManager\BookManager\bin\Debug\netcoreapp2.1\BookManager.runtimeconfig.dev.json
+C:\Users\IKARO\source\repos\BookManager\BookManager\bin\Debug\netcoreapp2.1\BookManager.dll
+C:\Users\IKARO\source\repos\BookManager\BookManager\bin\Debug\netcoreapp2.1\BookManager.pdb
+C:\Users\IKARO\source\repos\BookManager\BookManager\obj\Debug\netcoreapp2.1\BookManager.dll
+C:\Users\IKARO\source\repos\BookManager\BookManager\obj\Debug\netcoreapp2.1\BookManager.pdb
